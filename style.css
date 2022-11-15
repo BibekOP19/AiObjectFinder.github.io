@@ -1,0 +1,15 @@
+.heading{
+    background-color: aqua;
+    color: black;
+    font-size: 25px;
+    font-family:serif;
+}
+canvas{
+    box-shadow: 5px 5px 5px yellow;
+    border: 8px ;
+    border-radius: 5px ;
+    stroke: yellow;
+}
+body{
+    background-size: cover;
+}
